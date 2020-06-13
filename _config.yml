@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Sanjib Mondal"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/ProfilePicture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Brisbane, Queensland, Australia"
   email            : "sanjibmondal50@yahoo.com"
