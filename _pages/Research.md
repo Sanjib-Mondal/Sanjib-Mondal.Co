@@ -1,6 +1,6 @@
 ---
 title: "My Research Area"
-permalink: /research1/
+permalink: /Research/
 header:
   image: "/images/11.jpg"
 ---
