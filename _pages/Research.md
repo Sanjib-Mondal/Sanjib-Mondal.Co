@@ -1,8 +1,11 @@
 ---
-title: "About"
-permalink: /about/
+title: "My Research Area"
+permalink: /Research/
 header:
   image: "/images/11.jpg"
 ---
 
-I am a recent PhD graduate from The University of Queensland, Australia with proven programming skills in Python, C++ and MatLab. My mathematical, statistical, analytical and computational knowledge can be applied to solve any problem requiring numerical and analytical expertise, data analysis and visualization. I have an excellent presentation, communication, motivational, interpersonal, project management and leadership skills which can be transferable in any working space. I am an adaptable and transformational leader with an ability to work independently, collaboratively, creating effective presentations, and developing opportunities that further establish organizational goals.
+I have a broad range of interdisciplinary research interests including continuum and materials modelling, fracture and damage mechanics, computational mechanics, and mathematical modelling. My research provides new understanding in forecasting risk and damage in a range of applications transferable across different industry sectors including oil and gas, mining, construction, composites and manufacturing.
+
+title: "My Publications"
+permalink: /Research/
