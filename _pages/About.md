@@ -32,6 +32,6 @@ Result: CGPA 3.60 out of 4.00
 3. Volunteer Community Advisor of Overleaf (Online LaTex Editor).
 
 # Contact Details
-Address: 5/36 Warren Street, St Lucia, QLD 4067, Australia.
-Email: sanjib.mondal@uq.net.au
+Address: 5/36 Warren Street, St Lucia, QLD 4067, Australia.  
+Email: sanjib.mondal@uq.net.au  
 Mobile: +61 470 321 905
