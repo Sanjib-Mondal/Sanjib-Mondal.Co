@@ -27,9 +27,9 @@ Result: CGPA 3.60 out of 4.00
 4. Public Speaking: Speaker at different international and national conference, and workshop.
 
 # Membership
-•	Early Career Member of Australian Mathematical Society Inc. (Aust MS).
-•	Member of Society of Petroleum Engineers (SPE).
-•	Volunteer Community Advisor of Overleaf (Online LaTex Editor).
+1. Early Career Member of Australian Mathematical Society Inc. (Aust MS).
+2. Member of Society of Petroleum Engineers (SPE).
+3. Volunteer Community Advisor of Overleaf (Online LaTex Editor).
 
 # Contact Details
 Address: 5/36 Warren Street, St Lucia, QLD 4067, Australia.
