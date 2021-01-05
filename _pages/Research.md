@@ -1,5 +1,5 @@
 ---
-title: "Research Area"
+title: "My Research Area"
 permalink: /Research/
 header:
   image: "/images/Research.jpg"
