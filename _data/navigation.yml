@@ -1,11 +1,13 @@
 # main links
 main:
   - title: "About Me"
-    url: /about/
+    url: /About/
   - title: "Data Science Projects"
     url: /data-wrangling/
   - title: "Research"
     url: /Research/
+  - title: "Experiences"
+    url: /Experiences/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
