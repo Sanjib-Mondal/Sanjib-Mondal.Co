@@ -8,6 +8,8 @@ main:
     url: /Research/
   - title: "Experiences"
     url: /Experiences/
+  - title: "Achievements and Awards"
+    url: /AchievementsAndAwards/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
