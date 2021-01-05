@@ -9,16 +9,13 @@ I recently finished my PhD degree from The University of Queensland, Australia w
 
 # Educational Qualifications
 Doctor of Philosophy (PhD) in Science (2019)  
-Institution: The University of Queensland, Australia  
-Result: Graduated
+Institution: The University of Queensland, Australia.
 
-Master of Science in Applied Mathematics (2013) 
-Institution: Khulna University, Bangladesh  
-Result: CGPA 3.71 out of 4.00
+Master of Science in Applied Mathematics (2013)   
+Institution: Khulna University, Bangladesh.  
 
 Bachelor of Science in Mathematics (2011)  
-Institution: Khulna University, Bangladesh  
-Result: CGPA 3.60 out of 4.00
+Institution: Khulna University, Bangladesh.  
 
 # Skills
 1. Computer Programming Skills: Programming experience in multiple languages (Python, Matlab, C++ and Mathematica). Experience user in Parallel Computing and Supercomputing.
