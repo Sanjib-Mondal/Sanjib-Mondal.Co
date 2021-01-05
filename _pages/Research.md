@@ -8,6 +8,10 @@ header:
 I have a broad range of interdisciplinary research interests including continuum and materials modelling, fracture and damage mechanics, computational mechanics, and mathematical modelling. My research provides new understanding in forecasting risk and damage in a range of applications transferable across different industry sectors including oil and gas, mining, construction, composites and manufacturing.
 
 # Current Projects
+1. Machine Learning Algorithum for mining data analysis and predection model development.
+2. Shear strength of cleated coal: laboratory experiments and model development.   
+3. Damage analysis of anchored concrete.  
+4. Development of armour protection.  
 
 # Journal Publications
 1. Sanjib Mondal, L.M. Olsen-Kettle, and L. Gross, “Sensitivity analysis of variation in material heterogeneity on damage evolution and fracture propagation for a sandstone specimen containing a pre-existing 3-D surface flaw”, Computers and Geotechnics, Vol. 126:103728, October 2020. [https://doi.org/10.1016/j.compgeo.2020.103505](https://doi.org/10.1016/j.compgeo.2020.103505)
