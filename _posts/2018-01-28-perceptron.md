@@ -8,7 +8,7 @@ excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
 
-# This project is under constraction. So please ignore this page.
+# This project is under construction. So please ignore this page.
 
 ## H2 Heading
 
