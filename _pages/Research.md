@@ -9,7 +9,7 @@ I have a broad range of interdisciplinary research interests including continuum
 
 # Current Projects
 1. Machine Learning Algorithum for mining data analysis and predection model development.
-2. Shear strength of cleated coal: laboratory experiments and model development.   
+2. Laboratory experiments and model development for measuring the shear strength of cleated coal.  
 3. Damage analysis of anchored concrete.  
 4. Development of armour protection.  
 
