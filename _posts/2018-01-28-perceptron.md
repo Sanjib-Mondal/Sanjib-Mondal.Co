@@ -1,6 +1,6 @@
 ---
 title: "Data Wrangling Project"
-date: 2020-10-20
+date: 2021-01-06
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/DataScience.jpg"
