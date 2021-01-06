@@ -4,7 +4,7 @@ permalink: /data-wrangling/
 title: "Data Science Projects"
 author_profile: true
 header:
-  image: "/images/fortPoint.png"
+  image: "/images/DataScience.png"
 ---
 
 More data science projects are comming soon.
