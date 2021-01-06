@@ -35,3 +35,6 @@ I have a broad range of interdisciplinary research interests including continuum
 
 # Conference Attendance  
 1.	SPE/AAPG/SEG Asia Pacific Unconventional Resources Technology Conference, 18-19 November 2019, Brisbane Convention & Exhibition Centre, Brisbane, Australia.  
+
+# PhD Thesis
+Numerical modelling of damage evolution and fracture propagation in brittle materials. [https://doi.org/10.14264/uql.2019.658](https://doi.org/10.14264/uql.2019.658)
