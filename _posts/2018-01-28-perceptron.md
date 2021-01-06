@@ -1,6 +1,6 @@
 ---
 title: "Data Wrangling Project"
-date: 2020-01-20
+date: 2020-10-20
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/fortPoint.jpg"
